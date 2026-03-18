@@ -57,11 +57,29 @@ Tic-Tac-Toe-Game/
 
 ---
 
-## ▶️ live
+## ▶️ Live Preview
 
-![alt text](<WhatsApp Image 2026-03-18 at 2.30.11 PM.jpeg>)
-![alt text](<WhatsApp Image 2026-03-18 at 2.30.15 PM.jpeg>)
-Live Website : https://abhay-maddy.github.io/Tic-Tac-Toe-Game/
+### 📱 Mobile View
+
+<p align="center">
+  <img src="Phone_DashBoad1"width="250"/>
+  <img src="Phone_DashBoad2"width="250"/>
+</p>
+
+---
+
+### 💻 Desktop View
+
+<p align="center">
+  <img src="Window_DashBoad1"width="700"/>
+  <img src="Window_DashBoad2"width="700"/>
+</p>
+
+---
+
+### 🌐 Live Website
+
+👉 https://abhay-maddy.github.io/Tic-Tac-Toe-Game/
 
 ## 🙋‍♂️ Author
 
