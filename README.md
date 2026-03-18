@@ -62,8 +62,8 @@ Tic-Tac-Toe-Game/
 ### 📱 Mobile View
 
 <p align="center">
-  <img src="Image/Phone_DashBoad1.jpeg" width="50" hight= "300"/>
-  <img src="Image/Phone_DashBoad2.jpeg" width="50" hight= "300"/>
+  <img src="Image/Phone_DashBoad1.jpeg" width="250" hight= "500"/>
+  <img src="Image/Phone_DashBoad2.jpeg" width="250" hight= "500"/>
 </p>
 
 ---
@@ -71,8 +71,8 @@ Tic-Tac-Toe-Game/
 ### 💻 Desktop View
 
 <p align="center">
-  <img src="Image/Window_DashBoad1.png" width="300"/>
-  <img src="Image/Window_DashBoad2.png" width="300"/>
+  <img src="Image/Window_DashBoad1.png" width="300" hight= "300"/>
+  <img src="Image/Window_DashBoad2.png" width="300"hight= "300"/>
 </p>
 
 ---
