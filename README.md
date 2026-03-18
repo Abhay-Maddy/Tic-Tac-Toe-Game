@@ -35,17 +35,6 @@ Tic-Tac-Toe-Game/
 
 ---
 
-## ▶️ How to Run the Project
-
-1. Clone the repository:
-   git clone https://github.com/abhay-maddheshiya/Tic-Tac-Toe-Game.git
-
-2. Open the folder in VS Code
-
-3. Run index.html in browser
-
----
-
 ## 🎮 How to Play
 
 - Player **O starts first**
@@ -68,11 +57,17 @@ Tic-Tac-Toe-Game/
 
 ---
 
+## ▶️ live
+
+![alt text](<WhatsApp Image 2026-03-18 at 2.30.11 PM.jpeg>)
+![alt text](<WhatsApp Image 2026-03-18 at 2.30.15 PM.jpeg>)
+Live Website : https://abhay-maddy.github.io/Tic-Tac-Toe-Game/
+
 ## 🙋‍♂️ Author
 
 **Abhay Maddy**
 
-GitHub: https://github.com/abhay-maddheshiya
+GitHub: https://github.com/abhay-maddy
 
 ---
 
